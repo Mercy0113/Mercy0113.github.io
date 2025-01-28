@@ -1,7 +1,7 @@
 # Mercy0113.github.io
 
 <div align="center">
-  <img src=“Mercy0113.github.io/livePhoto_1734025635 2.JPG" alt="个人头像" width="200" style="border-radius: 50%;">
+  <img src="livePhoto_1734025635 2.JPG" alt="个人头像" width="200" style="border-radius: 50%;">
 
   ## 岳佳葆 Mercy YUE | 政策数字游侠
 
