@@ -32,7 +32,7 @@
 - 独立撰写10+份政研报告（最高被厅级单位采纳）  
 
 #### **技术工具**  
-- 数据工具：Excel高级函数（VLOOKUP/数据透视表）、Airtable政策数据库搭建  
+- 数据工具：Excel高级函数（VLOOKUP/数据透视表）、[Airtable政策数据库搭建]( https://github.com/Mercy0113/Policy-database/blob/main/README.md )
 - 协作平台：腾讯文档自动化模板设计、飞书多维表格舆情看板  
 
 #### **语言能力**  
