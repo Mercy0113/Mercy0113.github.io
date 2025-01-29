@@ -44,7 +44,7 @@
 ### 🌐 开源项目
 
 - **[政策分析工具箱]( https://Mercy0113.github.io/policy-analysis-toolbox )**：提供舆情监测模板、政策数据库等工具，助力公共事务降本增效  
-- **[公益传播数据分析](链接)**：基于Excel的“贵州村超”话题传播效果复盘
+- **[公益传播数据分析]( https://github.com/Mercy0113/Analysis-of-Public-Welfare-Communication-Data )**：基于Excel的“贵州村超”话题传播效果复盘
 
 ### 💼 职业履历
 
