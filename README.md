@@ -3,7 +3,7 @@
 <div align="center">
   <img src="livePhoto_1734025635 2.JPG" alt="个人头像" width="200" style="border-radius: 50%;">
 
-  ## 岳佳葆 | Mercy YUE | 政策数字游侠
+   岳佳葆 | Mercy YUE | 政策数字游侠
 
   🔍 专注用技术解码公共事务的ESTJ行动派  
   📍 北京 · 📧 Jiabaoapply2024@yeah.net · 📱 130-5120-2113  
